@@ -1,0 +1,34 @@
+,country,country_code,count,log_count,text
+Singapore,Singapore,SGP,103,4.634728988229636,Country : Singapore<br>Count: 103
+Denmark,Denmark,DNK,30,3.4011973816621555,Country : Denmark<br>Count: 30
+China,China,CHN,657,6.48768401848461,Country : China<br>Count: 657
+Canada,Canada,CAN,121,4.795790545596741,Country : Canada<br>Count: 121
+Switzerland,Switzerland,CHE,113,4.727387818712341,Country : Switzerland<br>Count: 113
+USA,USA,USA,1565,7.355641102974253,"Country : United States<br>Count: 1,565"
+France,France,FRA,221,5.3981627015177525,Country : France<br>Count: 221
+Poland,Poland,POL,6,1.791759469228055,Country : Poland<br>Count: 6
+Austria,Austria,AUT,133,4.890349128221754,Country : Austria<br>Count: 133
+Germany,Germany,DEU,84,4.430816798843313,Country : Germany<br>Count: 84
+Spain,Spain,ESP,61,4.110873864173311,Country : Spain<br>Count: 61
+Ireland,Ireland,IRL,8,2.0794415416798357,Country : Ireland<br>Count: 8
+United Kingdom,United Kingdom,GBR,136,4.912654885736052,Country : United Kingdom<br>Count: 136
+Malaysia,Malaysia,MYS,12,2.4849066497880004,Country : Malaysia<br>Count: 12
+India,India,IND,6,1.791759469228055,Country : India<br>Count: 6
+Tunisia,Tunisia,TUN,18,2.8903717578961645,Country : Tunisia<br>Count: 18
+Hungary,Hungary,HUN,6,1.791759469228055,Country : Hungary<br>Count: 6
+Belgium,Belgium,BEL,27,3.295836866004329,Country : Belgium<br>Count: 27
+Turkey,Turkey,TUR,6,1.791759469228055,Country : Turkey<br>Count: 6
+Israel,Israel,ISR,17,2.833213344056216,Country : Israel<br>Count: 17
+Brazil,Brazil,BRA,10,2.302585092994046,Country : Brazil<br>Count: 10
+Niger,Niger,NER,4,1.3862943611198906,Country : Niger<br>Count: 4
+Morocco,Morocco,MAR,24,3.1780538303479458,Country : Morocco<br>Count: 24
+Angola,Angola,AGO,2,0.6931471805599453,Country : Angola<br>Count: 2
+Senegal,Senegal,SEN,5,1.6094379124341003,Country : Senegal<br>Count: 5
+Uruguay,Uruguay,URY,1,0.0,Country : Uruguay<br>Count: 1
+Australia,Australia,AUS,2,0.6931471805599453,Country : Australia<br>Count: 2
+South Korea,South Korea,KOR,4,1.3862943611198906,"Country : Korea, Republic of<br>Count: 4"
+Japan,Japan,JPN,3,1.0986122886681098,Country : Japan<br>Count: 3
+Korea,Korea,KOR,2,0.6931471805599453,"Country : Korea, Republic of<br>Count: 2"
+Italy,Italy,ITA,2,0.6931471805599453,Country : Italy<br>Count: 2
+French Guiana,French Guiana,GUF,1,0.0,Country : French Guiana<br>Count: 1
+Madagascar,Madagascar,MDG,2,0.6931471805599453,Country : Madagascar<br>Count: 2
