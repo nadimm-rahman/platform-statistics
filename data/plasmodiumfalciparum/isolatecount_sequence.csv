@@ -1,0 +1,88 @@
+,country,country_code,count,log_count,text
+Viet Nam,Viet Nam,VNM,654,6.483107351457199,Country : Viet Nam<br>Count: 654
+Uganda,Uganda,UGA,4874,8.491670234185152,"Country : Uganda<br>Count: 4,874"
+Malaysia,Malaysia,MYS,644,6.467698726104354,Country : Malaysia<br>Count: 644
+Philippines,Philippines,PHL,848,6.742880635791903,Country : Philippines<br>Count: 848
+Cameroon,Cameroon,CMR,304,5.717027701406222,Country : Cameroon<br>Count: 304
+India,India,IND,6551,8.787372988731876,"Country : India<br>Count: 6,551"
+Iran,Iran,IRN,723,6.583409222158765,"Country : Iran, Islamic Republic of<br>Count: 723"
+Kenya,Kenya,KEN,14420,9.57637141083894,"Country : Kenya<br>Count: 14,420"
+Senegal,Senegal,SEN,4509,8.413830678421084,"Country : Senegal<br>Count: 4,509"
+Honduras,Honduras,HND,88,4.477336814478207,Country : Honduras<br>Count: 88
+Laos,Laos,LAO,41,3.713572066704308,Country : Lao People's Democratic Republic<br>Count: 41
+Brazil,Brazil,BRA,1459,7.285506548522785,"Country : Brazil<br>Count: 1,459"
+Papua New Guinea,Papua New Guinea,PNG,3289,8.098338846189057,"Country : Papua New Guinea<br>Count: 3,289"
+Sudan,Sudan,SDN,356,5.87493073085203,Country : Sudan<br>Count: 356
+El Salvador,El Salvador,SLV,8,2.0794415416798357,Country : El Salvador<br>Count: 8
+Mali,Mali,MLI,712,6.568077911411976,Country : Mali<br>Count: 712
+South Africa,South Africa,ZAF,16,2.772588722239781,Country : South Africa<br>Count: 16
+Ghana,Ghana,GHA,1659,7.413970290190444,"Country : Ghana<br>Count: 1,659"
+Liberia,Liberia,LBR,81,4.394449154672439,Country : Liberia<br>Count: 81
+Thailand,Thailand,THA,3263,8.09040229659332,"Country : Thailand<br>Count: 3,263"
+Gambia,Gambia,GMB,916,6.82001636467413,Country : Gambia<br>Count: 916
+Tanzania,Tanzania,TZA,1024,6.931471805599453,"Country : Tanzania, United Republic of<br>Count: 1,024"
+Solomon Islands,Solomon Islands,SLB,482,6.1779441140506,Country : Solomon Islands<br>Count: 482
+Venezuela,Venezuela,VEN,821,6.710523109452428,"Country : Venezuela, Bolivarian Republic of<br>Count: 821"
+Vanuatu,Vanuatu,VUT,642,6.464588303689961,Country : Vanuatu<br>Count: 642
+Malawi,Malawi,MWI,1800,7.495541943884256,"Country : Malawi<br>Count: 1,800"
+Madagascar,Madagascar,MDG,88,4.477336814478207,Country : Madagascar<br>Count: 88
+Bangladesh,Bangladesh,BGD,79,4.3694478524670215,Country : Bangladesh<br>Count: 79
+Myanmar,Myanmar,MMR,1211,7.099201743553092,"Country : Myanmar<br>Count: 1,211"
+China,China,CHN,979,6.88653164253051,Country : China<br>Count: 979
+Colombia,Colombia,COL,1117,7.018401799069201,"Country : Colombia<br>Count: 1,117"
+Equatorial Guinea,Equatorial Guinea,GNQ,400,5.991464547107982,Country : Equatorial Guinea<br>Count: 400
+Cote d'Ivoire,Cote d'Ivoire,CIV,17,2.833213344056216,Country : Côte d'Ivoire<br>Count: 17
+Central African Republic,Central African Republic,CAF,35,3.5553480614894135,Country : Central African Republic<br>Count: 35
+Burkina Faso,Burkina Faso,BFA,132,4.882801922586371,Country : Burkina Faso<br>Count: 132
+Comoros,Comoros,COM,4,1.3862943611198906,Country : Comoros<br>Count: 4
+Sierra Leone,Sierra Leone,SLE,112,4.718498871295094,Country : Sierra Leone<br>Count: 112
+Guinea,Guinea,GIN,14,2.6390573296152584,Country : Guinea<br>Count: 14
+Democratic Republic of the Congo,Democratic Republic of the Congo,COD,906,6.80903930604298,"Country : Congo, The Democratic Republic of the<br>Count: 906"
+Indonesia,Indonesia,IDN,186,5.225746673713202,Country : Indonesia<br>Count: 186
+Netherlands,Netherlands,NLD,35,3.5553480614894135,Country : Netherlands<br>Count: 35
+Zimbabwe,Zimbabwe,ZWE,59,4.07753744390572,Country : Zimbabwe<br>Count: 59
+Gabon,Gabon,GAB,15427,9.64387450001194,"Country : Gabon<br>Count: 15,427"
+Benin,Benin,BEN,150,5.0106352940962555,Country : Benin<br>Count: 150
+Italy,Italy,ITA,2,0.6931471805599453,Country : Italy<br>Count: 2
+Nigeria,Nigeria,NGA,1637,7.400620577371135,"Country : Nigeria<br>Count: 1,637"
+Guyana,Guyana,GUY,372,5.918893854273146,Country : Guyana<br>Count: 372
+Peru,Peru,PER,990,6.897704943128636,Country : Peru<br>Count: 990
+Zambia,Zambia,ZMB,25,3.2188758248682006,Country : Zambia<br>Count: 25
+Sri Lanka,Sri Lanka,LKA,7,1.9459101490553132,Country : Sri Lanka<br>Count: 7
+Cambodia,Cambodia,KHM,653,6.481577129276431,Country : Cambodia<br>Count: 653
+France,France,FRA,149,5.003946305945459,Country : France<br>Count: 149
+Togo,Togo,TGO,12,2.4849066497880004,Country : Togo<br>Count: 12
+Cape Verde,Cape Verde,CPV,8,2.0794415416798357,Country : Cabo Verde<br>Count: 8
+Burma,Burma,MMR,5,1.6094379124341003,Country : Myanmar<br>Count: 5
+Haiti,Haiti,HTI,309,5.733341276897746,Country : Haiti<br>Count: 309
+Pakistan,Pakistan,PAK,108,4.68213122712422,Country : Pakistan<br>Count: 108
+Japan,Japan,JPN,1,0.0,Country : Japan<br>Count: 1
+French Guiana,French Guiana,GUF,4592,8.432070937999402,"Country : French Guiana<br>Count: 4,592"
+Yemen,Yemen,YEM,11,2.3978952727983707,Country : Yemen<br>Count: 11
+Namibia,Namibia,NAM,1,0.0,Country : Namibia<br>Count: 1
+Guinea-Bissau,Guinea-Bissau,GNB,7,1.9459101490553132,Country : Guinea-Bissau<br>Count: 7
+East Timor,East Timor,TLS,13,2.5649493574615367,Country : Timor-Leste<br>Count: 13
+Suriname,Suriname,SUR,39,3.6635616461296463,Country : Suriname<br>Count: 39
+Mozambique,Mozambique,MOZ,446,6.100318952020064,Country : Mozambique<br>Count: 446
+Republic of the Congo,Republic of the Congo,COG,44,3.784189633918261,Country : Congo<br>Count: 44
+Burundi,Burundi,BDI,8,2.0794415416798357,Country : Burundi<br>Count: 8
+Sao Tome and Principe,Sao Tome and Principe,STP,44,3.784189633918261,Country : Sao Tome and Principe<br>Count: 44
+Denmark,Denmark,DNK,1,0.0,Country : Denmark<br>Count: 1
+Niger,Niger,NER,66,4.189654742026425,Country : Niger<br>Count: 66
+Chad,Chad,TCD,1,0.0,Country : Chad<br>Count: 1
+Angola,Angola,AGO,83,4.418840607796598,Country : Angola<br>Count: 83
+Ecuador,Ecuador,ECU,2,0.6931471805599453,Country : Ecuador<br>Count: 2
+Saudi Arabia,Saudi Arabia,SAU,820,6.709304340258298,Country : Saudi Arabia<br>Count: 820
+Afghanistan,Afghanistan,AFG,68,4.219507705176107,Country : Afghanistan<br>Count: 68
+Panama,Panama,PAN,53,3.970291913552122,Country : Panama<br>Count: 53
+Singapore,Singapore,SGP,24,3.1780538303479458,Country : Singapore<br>Count: 24
+Guatemala,Guatemala,GTM,1,0.0,Country : Guatemala<br>Count: 1
+South Sudan,South Sudan,SSD,3,1.0986122886681098,Country : South Sudan<br>Count: 3
+Nicaragua,Nicaragua,NIC,3,1.0986122886681098,Country : Nicaragua<br>Count: 3
+Mexico,Mexico,MEX,4,1.3862943611198906,Country : Mexico<br>Count: 4
+Ethiopia,Ethiopia,ETH,265,5.579729825986222,Country : Ethiopia<br>Count: 265
+Taiwan,Taiwan,TWN,4,1.3862943611198906,"Country : Taiwan, Province of China<br>Count: 4"
+Eritrea,Eritrea,ERI,17,2.833213344056216,Country : Eritrea<br>Count: 17
+State of Palestine,State of Palestine,PSE,17,2.833213344056216,"Country : Palestine, State of<br>Count: 17"
+Kuwait,Kuwait,KWT,1,0.0,Country : Kuwait<br>Count: 1
+Turkey,Turkey,TUR,1,0.0,Country : Turkey<br>Count: 1
