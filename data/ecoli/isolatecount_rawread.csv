@@ -1,0 +1,140 @@
+,country,country_code,count,log_count,text
+Japan,Japan,JPN,9916,9.201904893155081,"Country : Japan<br>Count: 9,916"
+Nepal,Nepal,NPL,115,4.74493212836325,Country : Nepal<br>Count: 115
+Canada,Canada,CAN,9424,9.151014905891367,"Country : Canada<br>Count: 9,424"
+South Africa,South Africa,ZAF,291,5.673323267171493,Country : South Africa<br>Count: 291
+USA,USA,USA,131403,11.786024215822252,"Country : United States<br>Count: 131,403"
+India,India,IND,830,6.721425700790643,Country : India<br>Count: 830
+Myanmar,Myanmar,MMR,301,5.707110264748875,Country : Myanmar<br>Count: 301
+Taiwan,Taiwan,TWN,290,5.66988092298052,"Country : Taiwan, Province of China<br>Count: 290"
+Belgium,Belgium,BEL,1716,7.447751280047908,"Country : Belgium<br>Count: 1,716"
+France,France,FRA,5909,8.684231891345675,"Country : France<br>Count: 5,909"
+Italy,Italy,ITA,929,6.834108738813838,Country : Italy<br>Count: 929
+Thailand,Thailand,THA,2176,7.685243607975833,"Country : Thailand<br>Count: 2,176"
+Indonesia,Indonesia,IDN,291,5.673323267171493,Country : Indonesia<br>Count: 291
+Malawi,Malawi,MWI,66,4.189654742026425,Country : Malawi<br>Count: 66
+Viet Nam,Viet Nam,VNM,1273,7.149131598557407,"Country : Viet Nam<br>Count: 1,273"
+Egypt,Egypt,EGY,146,4.983606621708336,Country : Egypt<br>Count: 146
+Cambodia,Cambodia,KHM,1323,7.187657164114956,"Country : Cambodia<br>Count: 1,323"
+Bangladesh,Bangladesh,BGD,627,6.440946540632921,Country : Bangladesh<br>Count: 627
+Ecuador,Ecuador,ECU,2129,7.663407664893479,"Country : Ecuador<br>Count: 2,129"
+Mexico,Mexico,MEX,338,5.823045895483019,Country : Mexico<br>Count: 338
+Guatemala,Guatemala,GTM,81,4.394449154672439,Country : Guatemala<br>Count: 81
+Argentina,Argentina,ARG,387,5.958424693029782,Country : Argentina<br>Count: 387
+Norway,Norway,NOR,1957,7.579167967396076,"Country : Norway<br>Count: 1,957"
+Spain,Spain,ESP,2079,7.639642287858013,"Country : Spain<br>Count: 2,079"
+Sweden,Sweden,SWE,1388,7.23561914106675,"Country : Sweden<br>Count: 1,388"
+Denmark,Denmark,DNK,3678,8.210124405164267,"Country : Denmark<br>Count: 3,678"
+Israel,Israel,ISR,3868,8.260492856573185,"Country : Israel<br>Count: 3,868"
+Germany,Germany,DEU,6071,8.711278615130434,"Country : Germany<br>Count: 6,071"
+Mali,Mali,MLI,179,5.187385805840755,Country : Mali<br>Count: 179
+United Kingdom,United Kingdom,GBR,37275,10.52607813963294,"Country : United Kingdom<br>Count: 37,275"
+Portugal,Portugal,PRT,549,6.3080984415095305,Country : Portugal<br>Count: 549
+Australia,Australia,AUS,7645,8.941807118363164,"Country : Australia<br>Count: 7,645"
+Switzerland,Switzerland,CHE,5369,8.58839695042257,"Country : Switzerland<br>Count: 5,369"
+Finland,Finland,FIN,399,5.988961416889864,Country : Finland<br>Count: 399
+Madagascar,Madagascar,MDG,872,6.77078942390898,Country : Madagascar<br>Count: 872
+Albania,Albania,ALB,8,2.0794415416798357,Country : Albania<br>Count: 8
+Algeria,Algeria,DZA,9,2.1972245773362196,Country : Algeria<br>Count: 9
+Pakistan,Pakistan,PAK,1037,6.9440872082295275,"Country : Pakistan<br>Count: 1,037"
+West Bank,West Bank,PSE,26,3.258096538021482,"Country : Palestine, State of<br>Count: 26"
+Paraguay,Paraguay,PRY,145,4.976733742420574,Country : Paraguay<br>Count: 145
+Saudi Arabia,Saudi Arabia,SAU,343,5.8377304471659395,Country : Saudi Arabia<br>Count: 343
+Turkey,Turkey,TUR,210,5.3471075307174685,Country : Turkey<br>Count: 210
+Zambia,Zambia,ZMB,76,4.330733340286331,Country : Zambia<br>Count: 76
+Benin,Benin,BEN,31,3.4339872044851463,Country : Benin<br>Count: 31
+Bulgaria,Bulgaria,BGR,44,3.784189633918261,Country : Bulgaria<br>Count: 44
+Ghana,Ghana,GHA,203,5.313205979041787,Country : Ghana<br>Count: 203
+Greenland,Greenland,GRL,23,3.1354942159291497,Country : Greenland<br>Count: 23
+Hong Kong,Hong Kong,HKG,226,5.420534999272286,Country : Hong Kong<br>Count: 226
+Hungary,Hungary,HUN,594,6.386879319362645,Country : Hungary<br>Count: 594
+Lithuania,Lithuania,LTU,140,4.941642422609304,Country : Lithuania<br>Count: 140
+Mozambique,Mozambique,MOZ,179,5.187385805840755,Country : Mozambique<br>Count: 179
+New Zealand,New Zealand,NZL,2729,7.911690520708339,"Country : New Zealand<br>Count: 2,729"
+Nigeria,Nigeria,NGA,562,6.331501849893691,Country : Nigeria<br>Count: 562
+Burkina Faso,Burkina Faso,BFA,61,4.110873864173311,Country : Burkina Faso<br>Count: 61
+Croatia,Croatia,HRV,150,5.0106352940962555,Country : Croatia<br>Count: 150
+Cyprus,Cyprus,CYP,30,3.4011973816621555,Country : Cyprus<br>Count: 30
+Czech Republic,Czech Republic,CZE,265,5.579729825986222,Country : Czechia<br>Count: 265
+Kuwait,Kuwait,KWT,88,4.477336814478207,Country : Kuwait<br>Count: 88
+Poland,Poland,POL,507,6.2285110035911835,Country : Poland<br>Count: 507
+Djibouti,Djibouti,DJI,37,3.6109179126442243,Country : Djibouti<br>Count: 37
+Netherlands,Netherlands,NLD,5553,8.622093601241607,"Country : Netherlands<br>Count: 5,553"
+Armenia,Armenia,ARM,12,2.4849066497880004,Country : Armenia<br>Count: 12
+Cameroon,Cameroon,CMR,25,3.2188758248682006,Country : Cameroon<br>Count: 25
+Romania,Romania,ROU,262,5.568344503761097,Country : Romania<br>Count: 262
+Ireland,Ireland,IRL,643,6.466144724237619,Country : Ireland<br>Count: 643
+Uganda,Uganda,UGA,261,5.564520407322694,Country : Uganda<br>Count: 261
+Democratic Republic of the Congo,Democratic Republic of the Congo,COD,20,2.995732273553991,"Country : Congo, The Democratic Republic of the<br>Count: 20"
+Bolivia,Bolivia,BOL,70,4.248495242049359,"Country : Bolivia, Plurinational State of<br>Count: 70"
+Liberia,Liberia,LBR,1,0.0,Country : Liberia<br>Count: 1
+North Macedonia,North Macedonia,MKD,1,0.0,Country : North Macedonia<br>Count: 1
+Guinea-Bissau,Guinea-Bissau,GNB,29,3.367295829986474,Country : Guinea-Bissau<br>Count: 29
+Chile,Chile,CHL,272,5.605802066295998,Country : Chile<br>Count: 272
+Tanzania,Tanzania,TZA,437,6.07993319509559,"Country : Tanzania, United Republic of<br>Count: 437"
+Gambia,Gambia,GMB,517,6.248042874508429,Country : Gambia<br>Count: 517
+Kenya,Kenya,KEN,2568,7.850882664809852,"Country : Kenya<br>Count: 2,568"
+Singapore,Singapore,SGP,1524,7.329093736246592,"Country : Singapore<br>Count: 1,524"
+Venezuela,Venezuela,VEN,9,2.1972245773362196,"Country : Venezuela, Bolivarian Republic of<br>Count: 9"
+Estonia,Estonia,EST,21,3.044522437723423,Country : Estonia<br>Count: 21
+Latvia,Latvia,LVA,57,4.04305126783455,Country : Latvia<br>Count: 57
+Slovakia,Slovakia,SVK,38,3.6375861597263857,Country : Slovakia<br>Count: 38
+Austria,Austria,AUT,529,6.270988431858299,Country : Austria<br>Count: 529
+Namibia,Namibia,NAM,1,0.0,Country : Namibia<br>Count: 1
+Greece,Greece,GRC,103,4.634728988229636,Country : Greece<br>Count: 103
+Slovenia,Slovenia,SVN,40,3.6888794541139363,Country : Slovenia<br>Count: 40
+Brazil,Brazil,BRA,611,6.415096959171596,Country : Brazil<br>Count: 611
+Lebanon,Lebanon,LBN,245,5.501258210544727,Country : Lebanon<br>Count: 245
+Russia,Russia,RUS,424,6.049733455231958,Country : Russian Federation<br>Count: 424
+China,China,CHN,8467,9.043931533642278,"Country : China<br>Count: 8,467"
+Ethiopia,Ethiopia,ETH,380,5.940171252720432,Country : Ethiopia<br>Count: 380
+Luxembourg,Luxembourg,LUX,6,1.791759469228055,Country : Luxembourg<br>Count: 6
+Colombia,Colombia,COL,27,3.295836866004329,Country : Colombia<br>Count: 27
+Malta,Malta,MLT,11,2.3978952727983707,Country : Malta<br>Count: 11
+Uruguay,Uruguay,URY,10,2.302585092994046,Country : Uruguay<br>Count: 10
+Rwanda,Rwanda,RWA,154,5.0369526024136295,Country : Rwanda<br>Count: 154
+Mongolia,Mongolia,MNG,49,3.8918202981106265,Country : Mongolia<br>Count: 49
+Guadeloupe,Guadeloupe,GLP,65,4.174387269895637,Country : Guadeloupe<br>Count: 65
+Morocco,Morocco,MAR,22,3.091042453358316,Country : Morocco<br>Count: 22
+United Arab Emirates,United Arab Emirates,ARE,121,4.795790545596741,Country : United Arab Emirates<br>Count: 121
+Niger,Niger,NER,222,5.402677381872279,Country : Niger<br>Count: 222
+Iceland,Iceland,ISL,8,2.0794415416798357,Country : Iceland<br>Count: 8
+Bahrain,Bahrain,BHR,58,4.060443010546419,Country : Bahrain<br>Count: 58
+Laos,Laos,LAO,294,5.683579767338681,Country : Lao People's Democratic Republic<br>Count: 294
+Cuba,Cuba,CUB,4,1.3862943611198906,Country : Cuba<br>Count: 4
+Qatar,Qatar,QAT,344,5.840641657373398,Country : Qatar<br>Count: 344
+Puerto Rico,Puerto Rico,PRI,6,1.791759469228055,Country : Puerto Rico<br>Count: 6
+Malaysia,Malaysia,MYS,174,5.159055299214529,Country : Malaysia<br>Count: 174
+South Korea,South Korea,KOR,842,6.7357800142423265,"Country : Korea, Republic of<br>Count: 842"
+Sri Lanka,Sri Lanka,LKA,76,4.330733340286331,Country : Sri Lanka<br>Count: 76
+Papua New Guinea,Papua New Guinea,PNG,4,1.3862943611198906,Country : Papua New Guinea<br>Count: 4
+Peru,Peru,PER,407,6.008813185442595,Country : Peru<br>Count: 407
+Oman,Oman,OMN,75,4.31748811353631,Country : Oman<br>Count: 75
+Syria,Syria,SYR,1,0.0,Country : Syrian Arab Republic<br>Count: 1
+Costa Rica,Costa Rica,CRI,3,1.0986122886681098,Country : Costa Rica<br>Count: 3
+Serbia,Serbia,SRB,7,1.9459101490553132,Country : Serbia<br>Count: 7
+Iran,Iran,IRN,96,4.564348191467836,"Country : Iran, Islamic Republic of<br>Count: 96"
+Gabon,Gabon,GAB,4,1.3862943611198906,Country : Gabon<br>Count: 4
+Guyana,Guyana,GUY,7,1.9459101490553132,Country : Guyana<br>Count: 7
+New Caledonia,New Caledonia,NCL,7,1.9459101490553132,Country : New Caledonia<br>Count: 7
+Dominican Republic,Dominican Republic,DOM,71,4.2626798770413155,Country : Dominican Republic<br>Count: 71
+Tunisia,Tunisia,TUN,43,3.7612001156935624,Country : Tunisia<br>Count: 43
+Korea,Korea,KOR,233,5.4510384535657,"Country : Korea, Republic of<br>Count: 233"
+Iraq,Iraq,IRQ,4,1.3862943611198906,Country : Iraq<br>Count: 4
+Tajikistan,Tajikistan,TJK,1,0.0,Country : Tajikistan<br>Count: 1
+Sudan,Sudan,SDN,10,2.302585092994046,Country : Sudan<br>Count: 10
+Uzbekistan,Uzbekistan,UZB,3,1.0986122886681098,Country : Uzbekistan<br>Count: 3
+Somalia,Somalia,SOM,4,1.3862943611198906,Country : Somalia<br>Count: 4
+Honduras,Honduras,HND,54,3.9889840465642745,Country : Honduras<br>Count: 54
+Tonga,Tonga,TON,4,1.3862943611198906,Country : Tonga<br>Count: 4
+South Sudan,South Sudan,SSD,7,1.9459101490553132,Country : South Sudan<br>Count: 7
+Afghanistan,Afghanistan,AFG,8,2.0794415416798357,Country : Afghanistan<br>Count: 8
+Guam,Guam,GUM,1,0.0,Country : Guam<br>Count: 1
+Georgia,Georgia,GEO,2,0.6931471805599453,Country : Georgia<br>Count: 2
+Kosovo,Kosovo,SRB,5,1.6094379124341003,Country : Serbia<br>Count: 5
+Ukraine,Ukraine,UKR,3,1.0986122886681098,Country : Ukraine<br>Count: 3
+Antarctica,Antarctica,ATA,5,1.6094379124341003,Country : Antarctica<br>Count: 5
+Kazakhstan,Kazakhstan,KAZ,4,1.3862943611198906,Country : Kazakhstan<br>Count: 4
+Botswana,Botswana,BWA,2,0.6931471805599453,Country : Botswana<br>Count: 2
+Haiti,Haiti,HTI,2,0.6931471805599453,Country : Haiti<br>Count: 2
+French Guiana,French Guiana,GUF,1,0.0,Country : French Guiana<br>Count: 1
