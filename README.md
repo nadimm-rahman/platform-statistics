@@ -26,4 +26,4 @@ The metadata provided on the whole has been filtered and also cleaned of poor or
 ## Notes
 Contributors: Carla Cummins, Colman O'Cathail
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebi.ac.uk%2Fena%2Fbrowser%2F&psig=AOvVaw367GgYp1Y8xMsbPvrt8AYw&ust=1705584893098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiK7v_E5IMDFQAAAAAdAAAAABAD)
+![alt text](https://github.com/nadimm-rahman/platform-statistics/blob/main/ENA_logo.png?raw=true)
